@@ -1,3 +1,1 @@
-# Proof of Skill Protocol
-
-##
+![Proof of SKill Banner](./assets/gh-banner.png)
